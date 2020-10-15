@@ -1,5 +1,4 @@
-import React, {createContext, PropsWithChildren, useContext, useEffect, useState} from "react";
-// import axios from 'axios';
+import React, {createContext, PropsWithChildren, useContext} from "react";
 
 interface Context {
   counter: number
